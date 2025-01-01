@@ -1,0 +1,16 @@
+.mission-filter{
+    margin: 20px 0;
+}
+
+.mission-filter label{
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.mission-filter select{
+    font-size: 1.2em;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}

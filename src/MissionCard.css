@@ -1,0 +1,26 @@
+.mission-card{
+    border: 1px solid darkorchid;
+    border-radius: 8px;
+    background-color: darkblue;
+    padding: 16px;
+    margin: 16px 0;
+    color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.mission-card:hover{
+    transform: translateY(-4px);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+.mission-card h2{
+    font-size: 1.5em;
+    margin: 0 0 10px;
+}
+
+.mission-card p{
+    color: white;
+    font-size: 1.2em;
+    margin: 5px 0;
+}

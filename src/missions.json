@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Apollo 11", "status": "Completed", "destination": "Moon" },
+    { "id": 2, "name": "Mars Rover", "status": "Launched", "destination": "Mars" },
+    { "id": 3, "name": "Voyager 1", "status": "Completed", "destination": "Interstellar Space" },
+    { "id": 4, "name": "Artemis I", "status": "Scheduled", "destination": "Moon" }
+  ]
+  
